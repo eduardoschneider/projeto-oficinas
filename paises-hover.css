@@ -60,17 +60,17 @@ svg {
 }
 
 #AC:hover {
-	fill: #153308;
+	fill: #289e0e;
 	transition: 0.1s linear;
 }
 
 #AL:hover {
-	fill: #175e82;
+	fill: #d84e20;
 	transition: 0.1s linear;
 }
 
 #AP:hover {
-	fill: #9fff32;
+	fill: #289e0e;
 	transition: 0.1s linear;
 }
 
@@ -80,27 +80,27 @@ svg {
 }
 
 #BA:hover {
-	fill: #d6e222;
+	fill: #d84e20;
 	transition: 0.1s linear;
 }
 
 #CE:hover {
-	fill: #f2a035;
+	fill: #d84e20;
 	transition: 0.1s linear;
 }
 
 #DF:hover {
-	fill: #f90e0e;
+	fill: #3e634b;
 	transition: 0.1s linear;
 }
 
 #ES:hover {
-	fill: #ffaffd;
+	fill: #7f0202;
 	transition: 0.1s linear;
 }
 
 #GO:hover {
-	fill: #ffaffd;
+	fill: #3e634b;
 	transition: 0.1s linear;
 }
 
@@ -115,22 +115,22 @@ svg {
 }
 
 #MS:hover {
-	fill: #3e6355;
+	fill: #3e634b;
 	transition: 0.1s linear;
 }
 
 #MG:hover {
-	fill: #f7d85d;
+	fill: #7f0202;
 	transition: 0.1s linear;
 }
 
 #PA:hover {
-	fill: #3f3da5;
+	fill: #289e0e;
 	transition: 0.1s linear;
 }
 
 #PB:hover {
-	fill: #dbbd62;
+	fill: #d84e20;
 	transition: 0.1s linear;
 }
 
@@ -140,42 +140,42 @@ svg {
 }
 
 #PE:hover {
-	fill: #71aa06;
+	fill: #d84e20;
 	transition: 0.1s linear;
 }
 
 #PI:hover {
-	fill: #a35437;
+	fill: #d84e20;
 	transition: 0.1s linear;
 }
 
 #RJ:hover {
-	fill: #0b8cb7;
+	fill: #7f0202;
 	transition: 0.1s linear;
 }
 
 #RN:hover {
-	fill: #b70b39;
+	fill: #d84e20;
 	transition: 0.1s linear;
 }
 
 #RS:hover {
-	fill: #64d8ef;
+	fill: #0ca094;
 	transition: 0.1s linear;
 }
 
 #RO:hover {
-	fill: #69587c;
+	fill: #289e0e;
 	transition: 0.1s linear;
 }
 
 #RR:hover {
-	fill: #491882;
+	fill: #289e0e;
 	transition: 0.1s linear;
 }
 
 #SC:hover {
-	fill: #932963;
+	fill: #0ca094;
 	transition: 0.1s linear;
 }
 
@@ -185,12 +185,12 @@ svg {
 }
 
 #SE:hover {
-	fill: #5b5100;
+	fill: #d84e20;
 	transition: 0.1s linear;
 }
 
 #TO:hover {
-	fill: #2f6d3d;
+	fill: #289e0e;
 	transition: 0.1s linear;
 }
 
